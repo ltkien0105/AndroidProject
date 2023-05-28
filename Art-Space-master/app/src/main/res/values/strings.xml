@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="first_image">Carina Nebula</string>
+    <string name="second_image">Stephan\'s Quintet</string>
+    <string name="third_image">Southern Ring Nebula</string>
+    <string name="forth_image">SMACS 0723</string>
+    <string name="author">James Webb Telescope</string>
+    <string name="year">2022</string>
+</resources>

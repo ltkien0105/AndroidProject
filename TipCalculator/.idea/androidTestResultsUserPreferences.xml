@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidTestResultsUserPreferences">
+    <option name="androidTestResultsTableState">
+      <map>
+        <entry key="529838389">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="127.0.0.1:5555" value="120" />
+                  <entry key="Duration" value="142" />
+                  <entry key="Genymobile" value="120" />
+                  <entry key="Genymobile&#10; Nexus 4" value="171" />
+                  <entry key="Tests" value="411" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
